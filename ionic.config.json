@@ -1,0 +1,8 @@
+{
+  "name": "TRImap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "c3886d63"
+}
